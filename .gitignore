@@ -5,3 +5,4 @@ build/.svn/format
 build/.svn/wc.db
 build/.svn/wc.db-journal
 build/AutoUnitTestTool.suo
+*.user
